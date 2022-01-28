@@ -7,3 +7,5 @@ Another message
 4th message from branch1
 
 5th message from branchNew
+
+6th message intelij
